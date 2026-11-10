@@ -7,7 +7,6 @@ products:
   - id: ya39qahrcdhvxowz
     model: Wake Up Light II
     model_id: ACA002-II-WWA
-  - id: dmsssdcfanebmszs
 entities:
   - entity: light
     dps:
